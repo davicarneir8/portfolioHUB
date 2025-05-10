@@ -11,4 +11,6 @@ O código-fonte está localizado dentro da pasta `projetos pessoais/` deste repo
 3. Execute o script com o comando:
 
 ```bash
+cd ~/Downloads
+python /c/Users/Davi/Downloads/script_calculadora_temp.py.py
 python script_calculadora_temp.py
